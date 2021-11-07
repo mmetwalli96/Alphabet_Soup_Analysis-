@@ -1,4 +1,4 @@
-# Report
+# Neural Network Charity Analysis Report
 
 ## Overview of The Analysis:
 
