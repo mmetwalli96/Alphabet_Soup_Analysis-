@@ -62,4 +62,4 @@ the features in the provided dataset will be used to help Beks create a binary c
   
 ## Summary
   
-A deep learning model was created to predict if the funding that would be provided to an organization by Alphabet Soup will result in a successful applicant with an accuracy of <b>73%</b>. The target result wasn't achieved by the created model. An alternative model may implement Support Vector Machine (SVM) which will be easier in training and can handle non-linearity in the training data and is more tolerant against overfitting.  
+A deep learning model was created to predict if the funding that would be provided to an organization by Alphabet Soup will result in a successful applicant with an accuracy of <b>73%</b>. The target result wasn't achieved by the created model. An alternative model may implement Support Vector Machine (SVM) which will be easier in training, can handle non-linearity in the training data, and is more tolerant against overfitting.  
